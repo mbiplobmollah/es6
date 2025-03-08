@@ -19,3 +19,4 @@ console.log(person[true])
 
 
 // console.log(person.details?.mother?.name);
+// this is called optional chaining
